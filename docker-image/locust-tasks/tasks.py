@@ -1,4 +1,4 @@
-from locust import HttpUser,SequentialTaskSet,task, between
+from locust import HttpUser,SequentialTaskSet,task
 from random import randrange
 import json
 import csv
